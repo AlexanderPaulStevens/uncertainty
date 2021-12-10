@@ -9,6 +9,8 @@ Both "CNN" and "LSTM" rely on the class ConcreteDropout in the "Concrete" notebo
 
 The "Learning" notebook provides a simplified training mechanism to train the CNN and LSTM models, both for regression and classification.
 
+The "Inference" notebook shows how to do inference with Monte Carlo simulations and to calculate aleatoric and epistemic uncertainty
+
 The loss functions used in "Learning" can be found in "Loss_functions".
 
 
