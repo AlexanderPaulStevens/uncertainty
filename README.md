@@ -13,6 +13,8 @@ The "Inference" notebook shows how to do inference with Monte Carlo simulations 
 
 The loss functions used in "Learning" can be found in "Loss_functions".
 
+## Data
+Data sources and required preprocessing steps can be found in the repository "https://github.com/hansweytjens/predictive-process-monitoring-benchmarks".
 
 ## PyTorch
 Our neural networks are built with PyTorch. Information and installation instructions can be found on https://pytorch.org/.
